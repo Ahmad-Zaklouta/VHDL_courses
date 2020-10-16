@@ -10,4 +10,7 @@ courses to learn VHDL
 - https://www.youtube.com/channel/UC1oYgrEBJ-cwwtcNE8ESW2A/featured 
  
 3- Digital Design VHDL
-- https://www.youtube.com/playlist?list=PL7kkolCtIBKLukrBsEDwKRTE64JvaJDhM
+- https://www.youtube.com/playlist?list=PL7kkolCtIBKLukrBsEDwKRTE64JvaJDhM 
+ 
+4- Logic Synthesis
+- http://www.tkt.cs.tut.fi/kurssit/50200/
