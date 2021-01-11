@@ -14,3 +14,6 @@ courses to learn VHDL
  
 4- Logic Synthesis
 - http://www.tkt.cs.tut.fi/kurssit/50200/
+ 
+5- Advanced SoC Design
+- https://www.youtube.com/playlist?list=PLYIqOUGELfjGrnuO5lHMWDmQfrrZ7qHeu
