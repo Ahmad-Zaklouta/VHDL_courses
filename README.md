@@ -1,5 +1,5 @@
 # VHDL_courses
-courses to learn VHDL 
+Courses to learn VHDL 
 
 1- Digital System design with PLDs and FPGAs by Prof. Kuruvilla Varghese
 - https://nptel.ac.in/courses/117/108/117108040/
