@@ -13,7 +13,7 @@ Courses to learn VHDL
 - https://www.youtube.com/playlist?list=PL7kkolCtIBKLukrBsEDwKRTE64JvaJDhM 
  
 4- Logic Synthesis
-- http://www.tkt.cs.tut.fi/kurssit/50200/
+- https://drive.google.com/drive/folders/1PVTlo7XpY8wlye1uTmPP7t1gEugZH8o5?usp=sharing
  
 5- Advanced SoC Design
-- https://www.youtube.com/playlist?list=PLYIqOUGELfjGrnuO5lHMWDmQfrrZ7qHeu
+- 
