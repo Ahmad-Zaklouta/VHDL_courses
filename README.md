@@ -14,6 +14,12 @@ Courses to learn VHDL
  
 4- Logic Synthesis
 - https://drive.google.com/drive/folders/1PVTlo7XpY8wlye1uTmPP7t1gEugZH8o5?usp=sharing
+
+5- FPGA Design with VHDL 
+- https://vhdlguide.readthedocs.io/en/latest/ 
  
-5- Advanced SoC Design
-- 
+6- ECE 522: Hardware/Sofware Codesign with FPGAs 
+- https://ece-research.unm.edu/jimp/codesign/
+ 
+7- Reconfigurable Computing Research Laboratory 
+http://www.secs.oakland.edu/~llamocca/index.html#
