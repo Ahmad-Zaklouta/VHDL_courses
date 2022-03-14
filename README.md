@@ -22,4 +22,5 @@ Courses to learn VHDL
 - https://ece-research.unm.edu/jimp/codesign/
  
 7- Reconfigurable Computing Research Laboratory 
-http://www.secs.oakland.edu/~llamocca/index.html#
+- http://www.secs.oakland.edu/~llamocca/index.html# 
+
